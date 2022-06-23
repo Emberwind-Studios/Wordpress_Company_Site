@@ -1,0 +1,20 @@
+{
+    "version": 2,
+    "settings": {
+          "color": {
+            "palette": [
+                {
+                    "slug": "nav-background",
+                    "color": "#D1D1E4",
+                    "name": "nav-background"
+                },
+                {
+                    "slug": "yellow",
+                    "color": "#EEEADD",
+                    "name": "Yellow"
+                }
+            ]
+          },
+          "typography": {}  
+    }
+}
