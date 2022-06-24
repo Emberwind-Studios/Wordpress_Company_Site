@@ -155,7 +155,6 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
     align-items: center;
     justify-content:center;
     height:100px;
-    margin-bottom:70px;
     background-color:var(--wp--preset--color--background);
     box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
 }
